@@ -113,13 +113,13 @@ var l_musicPlaylist = [
         {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
         {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
         {youtube: "Ida_1AVJDMs", name: "Fox Stevenson All This Time"},
-        {youtube: "Bznxx12Ptl0", name: "Im An Albatraoz"},
+        {youtube: "ZLhfr8mpzxU", name: "Vexento - Masked Heroes"},
         {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"},
         {youtube: "HOnqr8ifta0", name: "Bruno Mars Treasure"},
         {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
         {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
         {youtube: "CPy2TLPbpVY", name: "Beach MBB"},
-        {youtube: "2GW4pD-bKc0", name: "It Was Not Your Fault But Mine"}
+        {youtube: "hLTgQ5SC-PU", name: "DO YOU KNOW DA WAE"}
 
 ];
 
