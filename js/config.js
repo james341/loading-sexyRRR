@@ -107,7 +107,7 @@ var l_musicPlaylist = [
         {youtube: "ZNra8eK0K6k", name: "Alessia Cara How Far I'll Go"},
         {youtube: "c6rP-YP4c5I", name: "Try Everything"},
         {youtube: "VxUr-LbVsY0", name: "Karaoke Funkytown"},
-        {youtube: "6fNmzp5K5rw", name: "Karaoke Bette Davis Eyes Kim Carnes"},
+        {youtube: "NIpns4R9Ep4", name: "SPOOKY SCARY SKELETONS"},
         {youtube: "FUK6egJ0aLc", name: "Mysterious Forest"},
         {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"},
         {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
