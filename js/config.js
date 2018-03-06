@@ -98,29 +98,12 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
-	{youtube: "nXxZQ2t7NKk", name: "Nightcore - Too Good At Goodbyes"},
-	{youtube: "ywGE8Ydjzsc", name: "Panda Eyes - KIKO"},
-        {youtube: "-iwYHk_SwNA", name: "Panda Eyes - Colorblind"},
-        {youtube: "uInmFU6JkU", name: "Lost Woods Legend of Zelda"},
-        {youtube: "d1vQMIisJuc", name: "I Wanna Be Like You"},
-        {youtube: "ZNra8eK0K6k", name: "Alessia Cara How Far I'll Go"},
-        {youtube: "c6rP-YP4c5I", name: "Try Everything"},
-        {youtube: "VxUr-LbVsY0", name: "Karaoke Funkytown"},
-        {youtube: "NIpns4R9Ep4", name: "SPOOKY SCARY SKELETONS"},
-        {youtube: "FUK6egJ0aLc", name: "Mysterious Forest"},
-        {youtube: "wJGcwEv7838", name: "XXXTENTACION - Look At Me! Audio"},
-        {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
-        {youtube: "FAucVNRx_mU", name: "XXXTENTACION Jocelyn Flores"},
-        {youtube: "7JGDWKJfgxQ", name: "XXXTENTACION - Everybody Dies In Their Nightmares"},
-        {youtube: "i_zYrYkbrGY", name: "This Is Halloween"},
-        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"},
-        {youtube: "HOnqr8ifta0", name: "Bruno Mars Treasure"},
-        {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
-        {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
-        {youtube: "CPy2TLPbpVY", name: "Beach MBB"},
-        {youtube: "hLTgQ5SC-PU", name: "DO YOU KNOW DA WAE"}
-
+	{youtube: "Q9g6cEW6jQY", name: "Freedom Networks - Waiting For Love"},
+	{youtube: "p6zFm__86ws", name: "Freedom Networks - Remember the days of the Old Schoolyard"},
+	{youtube: "bR-s4ReIxJo", name: "Freedom Networks - Pumped up Kicks"},
+        {youtube: "gkvbAOgEKLI", name: "Freedom Networks - Installation Music"},
+        {youtube: "TKfS5zVfGBc", name: "Freedom Networks - Sound System Dreamscape"},
+        
 ];
 
 /*Random music order?*/
