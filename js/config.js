@@ -95,7 +95,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "Q9g6cEW6jQY", name: "Freedom Networks - Waiting For Love"},
 	{youtube: "p6zFm__86ws", name: "Freedom Networks - Remember the days of the Old Schoolyard"},
-	{youtube: "bR-s4ReIxJo", name: "Freedom Networks - Pumped up Kicks"},
+	{youtube: "VE42vq0Sg7A", name: "Freedom Networks - Pumped up Kicks"},
         {youtube: "gkvbAOgEKLI", name: "Freedom Networks - Installation Music"},
         {youtube: "TKfS5zVfGBc", name: "Freedom Networks - Sound System Dreamscape"},
         
