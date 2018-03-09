@@ -60,6 +60,7 @@ var l_bgImages = [
         "image5.jpg",
         "image6.jpg",
         "image7.jpg",
+        "image8.jpg",
 ];
 
 /*Random background images order?*/
@@ -98,7 +99,8 @@ var l_musicPlaylist = [
 	{youtube: "VE42vq0Sg7A", name: "Freedom Networks - Pumped up Kicks"},
         {youtube: "gkvbAOgEKLI", name: "Freedom Networks - Installation Music"},
         {youtube: "TKfS5zVfGBc", name: "Freedom Networks - Sound System Dreamscape"},
-        
+        {youtube: "aRsOBFhNjVM", name: "Freedom Networks - Steamed Hams"},
+
 ];
 
 /*Random music order?*/
