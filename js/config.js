@@ -94,13 +94,8 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Q9g6cEW6jQY", name: "Freedom Networks - Waiting For Love"},
-	{youtube: "p6zFm__86ws", name: "Freedom Networks - Remember the days of the Old Schoolyard"},
-	{youtube: "VE42vq0Sg7A", name: "Freedom Networks - Pumped up Kicks"},
-        {youtube: "gkvbAOgEKLI", name: "Freedom Networks - Installation Music"},
-        {youtube: "TKfS5zVfGBc", name: "Freedom Networks - Sound System Dreamscape"},
-        {youtube: "aRsOBFhNjVM", name: "Freedom Networks - Steamed Hams"},
-
+	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - Installation Music"},
+	
 ];
 
 /*Random music order?*/
@@ -127,7 +122,7 @@ var l_messages = [
         "Do not argue with staff unless you know you are being wrongfully accused!",
         "Crashing The Server Will Get Your Ip Banned!",
         "Do not glitch or try to use exploits to your advantage!",
-        "Check Out Ceyayroxs Youtube Channel Bro!",
+        "You may have a building sign (using textscreen) to isolate and protect yourself from the RP world provided you do not have any raidables, and you are not engaging in role-play. It must be removed when you are finished!",
         "Make sure to read the rules!",
         "Do not attempt to log off to avoid confrontation with a staff member, or try to evade a punishment, ban, kick in anyway!",
         "Do not mix IC chat and OOC chat!",
