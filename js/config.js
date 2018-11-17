@@ -112,14 +112,13 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
-	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
-	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "You are not allowed to advertise any other servers or websites. You may only advertise links if they have some relevance to the server!",
-        "Thanks For Playing Here Hope You Enjoy Your Time Here!",
-        "Invite Your Friends For Your Chance To Win VIP!",
-        "Do not nag for any whitelists or character groups, apply on the forums!", 
-        "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
+	"You are not allowed to discriminate, be sexist, be racist, be homophobic, or put any graphic/sexual content in OOC!",
+	"If racism, extremism, Nazism is present in IC to the point of which it is becoming uncomfortable for players and presented in a unserious manner (such as skins from Adolf Hitler), staff have the right to ban you!",
+	"Do not hack, client mods are allowed if they do not affect anyone else's gameplay experience!",
+        "No roleplaying in OOC/LOOC. You can of course sometimes do a line of roleplay in OOC ironically!",
+        "Do not break NLR, and do not return to the place you were killed for at least five minutes!",
+        "You can't kill/mug a character for the following reasons!", 
+        "A void will not happen unless there is a valid reason (a rule has been broken!",
         "Do Not Ask For Ranks Apply On The Forums!",
         "Do not argue with staff unless you know you are being wrongfully accused!",
         "Crashing The Server Will Get Your Ip Banned!",
