@@ -96,8 +96,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "eKBbUdfvwrU", name: "Atlas Gaming - I'm Mr. Meeseeks"},
-	
+	{youtube: "weZKm1kTrpc", name: "Atlas Gaming - Baldi’s Basics Song- Basics in Behavior"},
+	{youtube: "l-85zOYDWiM", name: "Atlas Gaming - High School OST"},
+
 ];
 
 /*Random music order?*/
