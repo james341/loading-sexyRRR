@@ -98,6 +98,10 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "weZKm1kTrpc", name: "Atlas Gaming - Baldi’s Basics Song- Basics in Behavior"},
 	{youtube: "l-85zOYDWiM", name: "Atlas Gaming - High School OST"},
+        {youtube: "wCL33ECbQaI", name: "Atlas Gaming - High School OST Morning"},
+        {youtube: "5yZ8fOZUdOY", name: "Atlas Gaming - Work At A Pizza Place OST"},
+        {youtube: "3CkZJYWwBJE", name: "Atlas Gaming - Work At A Pizza Place OST Afternoon"},
+        {youtube: "VE42vq0Sg7A", name: "Atlas Gaming - Pumped Up Kicks"},
 
 ];
 
