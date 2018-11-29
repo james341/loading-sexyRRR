@@ -96,12 +96,12 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "-U3sP-KbrGk", name: "Zoinked - Installation Music"},
-	{youtube: "-U3sP-KbrGk", name: "Zoinked - Installation Music"},
-        {youtube: "-U3sP-KbrGk", name: "Zoinked - Installation Music"},
-        {youtube: "-U3sP-KbrGk", name: "Zoinked - Installation Music"},
-        {youtube: "-U3sP-KbrGk", name: "Zoinked - Installation Music"},
-        {youtube: "-U3sP-KbrGk", name: "Zoinked - Installation MusicInstallation Music"},
+	{youtube: "-U3sP-KbrGk", name: "Atlas Gaming - Installation Music"},
+	{youtube: "bThTHiM8lkM", name: "Atlas Gaming - Installation Music"},
+        {youtube: "6hzUeIhoyns", name: "Atlas Gaming - Installation Music"},
+        {youtube: "iRp4tRNH5AE", name: "Atlas Gaming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+        {youtube: "p6zFm__86ws", name: "Atlas Gaming - Installation Music"},
 
 ];
 
@@ -136,7 +136,7 @@ var l_messages = [
         "Donate Your Money To My Server!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy your time on our server!",
-        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
+        "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban Unless your the bully Job!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
